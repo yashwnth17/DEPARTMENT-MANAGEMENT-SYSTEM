@@ -40,7 +40,7 @@ The Department  Management System is a web-based application built using the MER
 
 # Installation
 
-```
+```https://github.com/yashwnth17/DEPARTMENT-MANAGEMENT-SYSTEM
 ```
 Open 2 terminals in separate windows/tabs.
 
