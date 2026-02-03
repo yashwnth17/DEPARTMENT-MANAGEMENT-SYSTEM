@@ -40,8 +40,7 @@ The Department  Management System is a web-based application built using the MER
 
 # Installation
 
-```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+```
 ```
 Open 2 terminals in separate windows/tabs.
 
